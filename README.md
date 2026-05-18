@@ -36,6 +36,16 @@ The goal is to analyze historical demand data, identify patterns, and build pred
 
 ---
 
+## Project Visualizations
+
+### Demand Trend Analysis
+![Demand Trend](images/demand_trend.png.png)
+
+### Correlation Heatmap
+![Heatmap](images/regional_heatmap.jpg)
+![Heatmap](correlation_heatmap.png)
+---
+
 ## Repository Structure
 - `data/` → datasets
 - `notebooks/` → Jupyter notebooks
