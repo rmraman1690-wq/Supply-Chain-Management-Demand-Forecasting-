@@ -1,7 +1,5 @@
-# Supply-Chain-Management-Demand-Forecasting-
+# Supply-Chain-Management-Demand-Forecasting
 Demand forecasting analysis using Python and machine learning techniques for supply chain optimization
-
-# Supply Chain Management – Demand Forecasting
 
 ## Overview
 This project focuses on demand forecasting for supply chain management using Python and machine learning techniques.
